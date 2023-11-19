@@ -37,6 +37,10 @@
 ## Используемые библиотеки
 pandas, scipy, numpy, matplotlib, seaborn, plotly
 
+# Дашборд
+
+https://public.tableau.com/app/profile/vladimir.medvedev/viz/Dashboard_final_projectMedvedevV/sheet2
+
 ## Часть - 2: A/B-тестирование
 ##Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
