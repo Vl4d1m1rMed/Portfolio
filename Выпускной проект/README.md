@@ -39,7 +39,7 @@ pandas, scipy, numpy, matplotlib, seaborn, plotly
 
 # Дашборд
 
-https://public.tableau.com/app/profile/vladimir.medvedev/viz/Dashboard_final_projectMedvedevV/sheet2
+[Ссылка на дашборд](https://public.tableau.com/app/profile/vladimir.medvedev/viz/Dashboard_final_projectMedvedevV/sheet2)
 
 ## Часть - 2: A/B-тестирование
 ##Цель исследования
