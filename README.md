@@ -32,7 +32,7 @@
 | 6 |A/B тест. [Принятие решений в бизнесе](https://github.com/Vl4d1m1rMed/Portfolio/tree/main/A-B%20test) |Анализируем результаты A/B-тестирования в крупном интернет-магазине, приоритизируем гипотезы  | Python Pandas Matplotlib SciPy A/B-тестирование проверка статистических гипотез |
 | 7 |Сборный проект 2. [Исследование мобильного приложения](https://github.com/Vl4d1m1rMed/Portfolio/tree/main/A-A-B%20TEST) |Исследуем воронку продаж и анализируем результаты A/A/B-тестирования в мобильном приложении | Python Pandas Matplotlib SciPy A/B-тестирование проверка статистических гипотез Seaborn событийная аналитика продуктовые метрики Plotly визуализация данных |
 | 8 |[Исследование рынка заведений общественного питания Москвы](https://github.com/Vl4d1m1rMed/Portfolio/tree/main/Исследование%20рынка%20заведений%20общественного%20питания%20Москвы) |Исследование рынка на основе открытых данных о заведениях общественного питания Москвы| Python Pandas Matplotlib Seaborn Plotly визуализация данных |
-| 9 |[Исследование истории TED-конференций](https://public.tableau.com/views/TED-1_4/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |Подготовлен интерактивный дашборд на основе данных о конференциях. | Создание дашбордов с помощью BI-инструмента Tableau |
+| 9 |Дашборд [Исследование истории TED-конференций](https://public.tableau.com/views/TED-1_4/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |Подготовлен интерактивный дашборд на основе данных о конференциях. | Создание дашбордов с помощью BI-инструмента Tableau |
 
 
 
